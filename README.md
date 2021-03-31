@@ -6,4 +6,8 @@
 * [x] [004 Ejercicio - Operaciones aritméticas](ats/programas/004.cpp)
     * [x] [004 ejercicio](ats/programas/004e.cpp)
 * [x] [005 Ejercicio - Pedir datos al usuario y mostrarlos en pantalla](ats/programas/005.cpp)
-* 
+
+## cpp para ingenieria
+* [ ] [0 indice](cpp_para_ingeniera/0/0.pdf)
+* [ ] [1 Introduccion](cpp_para_ingeniera/1/1.pdf)
+    * [ ] [Ejercicios](cpp_para_ingeniera/1)
