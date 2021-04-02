@@ -5,7 +5,8 @@
 * [x] [003 Lectura o entrada de datos en C++](ats/programas/003.cpp)
 * [x] [004 Ejercicio - Operaciones aritméticas](ats/programas/004.cpp)
     * [x] [004 ejercicio](ats/programas/004e.cpp)
-* [x] [005 Ejercicio - Pedir datos al usuario y mostrarlos en pantalla](ats/programas/005.cpp)
+* [x] [006 Expresiones  Ejercicio Expresiones 1 en C++](ats/programas/005.cpp)
+    * [x] [006 Ejercicio](ats/programas/006e.cpp)
 
 ## cpp para ingenieria
 * [x] [0 indice](cpp_para_ingeniera/0/0.pdf)
