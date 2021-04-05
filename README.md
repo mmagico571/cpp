@@ -12,6 +12,6 @@
 
 ## cpp para ingenieria
 * [x] [0 indice](cpp_para_ingeniera/0/0.pdf)
-* [ ] [1 Introduccion](cpp_para_ingeniera/1/1.pdf)
+* [x] [1 Introduccion](cpp_para_ingeniera/1/1.pdf)
 * [ ] [2 Solucion de problemas mediante c++](cpp_para_ingeniera/2/2.pdf)
     * [ ] [Ejercicios](cpp_para_ingeniera/2)
