@@ -1,5 +1,5 @@
 /*Realice un programa que calcule las soluciones de una ecuacion de 
-segundo grado de la forma ax^4+bx+c=0 teniendo en cuanta que:
+segundo grado de la forma ax^2+bx+c=0 teniendo en cuanta que:
 x=(-b+-raiz(b^2-4ac))/(2a)
 */
 #include<iostream>
