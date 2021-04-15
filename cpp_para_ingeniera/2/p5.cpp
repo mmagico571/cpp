@@ -1,4 +1,4 @@
-//Programa 2.
+//Programa 2.5
 #include<iostream>
 using namespace std;
 int main(){
