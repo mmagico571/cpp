@@ -1,4 +1,4 @@
-//Programa 2.7
+//Programa 2.6
 #include<iostream>
 using namespace std;
 int main(){
