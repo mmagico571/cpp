@@ -21,7 +21,6 @@
     * [x] [010 Ejercicio](ats/programas/010e.cpp)
 * [x] [011 Condicionales  La sentencia if](ats/programas/011.cpp)
 * [x] [012 Condicionales  La sentencia switch](ats/programas/012.cpp)
-    * [x] [012 Ejercicio](ats/programas/012e.cpp)
 * [x] [013 Condicionales Ejercicio Determinar el mayor de 2 numeros](ats/programas/013.cpp)
     * [x] [013 Ejercicio](ats/programas/013e.cpp)
 * [x] [014 Condicionales Ejercicio Determinar si un numero es par o impar](ats/programas/014.cpp)
