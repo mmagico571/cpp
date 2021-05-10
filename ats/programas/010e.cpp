@@ -28,5 +28,4 @@ int main(){
 	px2=(a*pow(x2,2))+(b*x2)+c;
 	cout<<endl;
 	cout<<"probando con x2: "<<px2;
-	
 }
