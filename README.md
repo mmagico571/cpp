@@ -34,7 +34,6 @@
 * [x] [018 Condicionales Ejercicio Cajero automatico con menu](ats/programas/018.cpp)
     * [x] [018 Ejercicio](ats/programas/018e.cpp)
 * [x] [019 Ciclos o Bucles La sentencia while](ats/programas/019.cpp)
-    * [x] [019 Ejercicio](ats/programas/019e.cpp)
 * [x] [020 Ciclos o Bucles La sentencia do while](ats/programas/020.cpp)
     * [x] [020 Ejercicio](ats/programas/020e.cpp)
 * [x] [021 Ciclos o Bucles La sentencia for](ats/programas/021.cpp)
