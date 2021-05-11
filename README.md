@@ -61,7 +61,7 @@
 * [ ] [3 Asignacion, formateo y entrada interactiva](cpp_para_ingeniera/3/3.pdf)
     * [x] [Programa 3.1](cpp_para_ingeniera/3/p1.cpp)
     * [x] [Programa 3.2](cpp_para_ingeniera/3/p2.cpp)
-    * [ ] [Programa 3.3](cpp_para_ingeniera/3/p3.cpp)
+    * [x] [Programa 3.3](cpp_para_ingeniera/3/p3.cpp)
     * [ ] [Programa 3.4](cpp_para_ingeniera/3/p4.cpp)
     * [ ] [Programa 3.5](cpp_para_ingeniera/3/p5.cpp)
     * [ ] [Programa 3.6](cpp_para_ingeniera/3/p6.cpp)
