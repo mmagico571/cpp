@@ -58,5 +58,5 @@
     * [x] [Programa 2.9](cpp_para_ingeniera/2/p9.cpp)
     * [x] [Programa 2.10](cpp_para_ingeniera/2/p10.cpp)
     * [x] [Programa 2.11](cpp_para_ingeniera/2/p11.cpp)
-    * [ ] [Programa 2.12](cpp_para_ingeniera/2/p12.cpp)
+    * [x] [Programa 2.12](cpp_para_ingeniera/2/p12.cpp)
     * [ ] [Programa 2.13](cpp_para_ingeniera/2/p13.cpp)
