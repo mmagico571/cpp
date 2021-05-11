@@ -53,7 +53,7 @@
     * [x] [Programa 2.5](cpp_para_ingeniera/2/p5.cpp)
     * [x] [Programa 2.6](cpp_para_ingeniera/2/p6.cpp)
     * [x] [Programa 2.7](cpp_para_ingeniera/2/p7.cpp)
-    * [ ] [Programa 2.8](cpp_para_ingeniera/2/p8.cpp)
+    * [x] [Programa 2.8](cpp_para_ingeniera/2/p8.cpp)
     * [ ] [Programa 2.9](cpp_para_ingeniera/2/p9.cpp)
     * [ ] [Programa 2.10](cpp_para_ingeniera/2/p10.cpp)
     * [ ] [Programa 2.11](cpp_para_ingeniera/2/p11.cpp)
