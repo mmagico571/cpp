@@ -63,7 +63,7 @@
     * [x] [Programa 3.2](cpp_para_ingeniera/3/p2.cpp)
     * [x] [Programa 3.3](cpp_para_ingeniera/3/p3.cpp)
     * [x] [Programa 3.4](cpp_para_ingeniera/3/p4.cpp)
-    * [ ] [Programa 3.5](cpp_para_ingeniera/3/p5.cpp)
+    * [x] [Programa 3.5](cpp_para_ingeniera/3/p5.cpp)
     * [ ] [Programa 3.6](cpp_para_ingeniera/3/p6.cpp)
     * [ ] [Programa 3.7](cpp_para_ingeniera/3/p7.cpp)
     * [ ] [Programa 3.8](cpp_para_ingeniera/3/p8.cpp)
