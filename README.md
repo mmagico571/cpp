@@ -37,6 +37,8 @@
 * [x] [020 Ciclos o Bucles La sentencia do while](ats/programas/020.cpp)
 * [x] [021 Ciclos o Bucles La sentencia for](ats/programas/021.cpp)
     * [x] [021 Ejercicio](ats/programas/021e.cpp)
+* [x] [022 ](ats/programas/022.cpp)
+    * [x] [022 Ejercicio](ats/programas/022e.cpp)
 
 
 
@@ -67,7 +69,7 @@
     * [x] [Programa 3.6](cpp_para_ingeniera/3/p6.cpp)
     * [x] [Programa 3.7](cpp_para_ingeniera/3/p7.cpp)
     * [x] [Programa 3.8](cpp_para_ingeniera/3/p8.cpp)
-    * [ ] [Programa 3.9](cpp_para_ingeniera/3/p9.cpp)
+    * [x] [Programa 3.9](cpp_para_ingeniera/3/p9.cpp)
     * [ ] [Programa 3.10](cpp_para_ingeniera/3/p10.cpp)
     * [ ] [Programa 3.11](cpp_para_ingeniera/3/p11.cpp)
     * [ ] [Programa 3.12](cpp_para_ingeniera/3/p12.cpp)
