@@ -77,4 +77,4 @@
     * [x] [Programa 3.14](cpp_para_ingeniera/3/p14.cpp)
     * [x] [Programa 3.15](cpp_para_ingeniera/3/p15.cpp)
     * [x] [Programa 3.16](cpp_para_ingeniera/3/p16.cpp)
-    * [ ] [Programa 3.17](cpp_para_ingeniera/3/p17.cpp)
+    * [x] [Programa 3.17](cpp_para_ingeniera/3/p17.cpp)
