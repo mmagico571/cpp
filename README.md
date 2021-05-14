@@ -319,3 +319,16 @@
     * [ ] [Programa 4.8](cpp_para_ingeniera/4/p8.cpp)
     * [ ] [Programa 4.9](cpp_para_ingeniera/4/p9.cpp)
     * [ ] [Programa 4.10](cpp_para_ingeniera/4/p10.cpp)
+<!--next
+* [ ] [5 Instrucciones de repeticion](cpp_para_ingeniera/5/5.pdf)
+* [ ] [6 Modularida con el uso de funciones](cpp_para_ingeniera/6/6.pdf)
+* [ ] [7 Completar lo basico](cpp_para_ingeniera/7/7.pdf)
+* [ ] [8 Flujos de archivos E/S y archivos de datos](cpp_para_ingeniera/8/8.pdf)
+* [ ] [9 Introduccion a las clases](cpp_para_ingeniera/9/9.pdf)
+* [ ] [10 Funciones de clases y conversiones](cpp_para_ingeniera/10/10.pdf)
+* [ ] [11 Arreglos](cpp_para_ingeniera/11/11.pdf)
+* [ ] [12 Apuntadores](cpp_para_ingeniera/12/12.pdf)
+* [ ] [13 Estructuras](cpp_para_ingeniera/13/13.pdf)
+* [ ] [14 Metodos Numericos](cpp_para_ingeniera/14/14.pdf)
+* [ ] [15 Operaciones Bit por Bit](cpp_para_ingeniera/15/15.pdf)
+-->
