@@ -15,7 +15,7 @@ int main(){
 		
 		if((tiempo!='f')&&(tiempo!='c')){
 			cout<<"opccion incorrecta";
-		}else if(tiempo=='c'){
+		}else if(tiempo=='f'){
 			celcius=(5/9)*(temp-32);
 			cout<<"La temperatura celcius es "<<celcius;
 		}else{
