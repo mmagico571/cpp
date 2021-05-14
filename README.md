@@ -36,7 +36,7 @@
 * [x] [019 Ciclos o Bucles La sentencia while](ats/programas/019.cpp)
 * [x] [020 Ciclos o Bucles La sentencia do while](ats/programas/020.cpp)
 * [x] [021 Ciclos o Bucles La sentencia for](ats/programas/021.cpp)
-* [x] [022 ](ats/programas/022.cpp)
+* [x] [022 Ciclos o Bucles Ejercicio Tabla de multiplicar de un número](ats/programas/022.cpp)
     * [x] [022 Ejercicio](ats/programas/022e.cpp)
 
 
