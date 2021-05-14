@@ -80,7 +80,7 @@
 * [ ] [4 Estructuras de seleccion](cpp_para_ingeniera/4/4.pdf)
     * [x] [Programa 4.1](cpp_para_ingeniera/4/p1.cpp)
     * [x] [Programa 4.2](cpp_para_ingeniera/4/p2.cpp)
-    * [ ] [Programa 4.3](cpp_para_ingeniera/4/p3.cpp)
+    * [x] [Programa 4.3](cpp_para_ingeniera/4/p3.cpp)
     * [ ] [Programa 4.4](cpp_para_ingeniera/4/p4.cpp)
     * [ ] [Programa 4.5](cpp_para_ingeniera/4/p5.cpp)
     * [ ] [Programa 4.6](cpp_para_ingeniera/4/p6.cpp)
