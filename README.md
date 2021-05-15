@@ -316,7 +316,7 @@
     * [x] [Programa 4.5](cpp_para_ingeniera/4/p5.cpp)
     * [x] [Programa 4.6](cpp_para_ingeniera/4/p6.cpp)
     * [x] [Programa 4.7](cpp_para_ingeniera/4/p7.cpp)
-    * [ ] [Programa 4.8](cpp_para_ingeniera/4/p8.cpp)
+    * [x] [Programa 4.8](cpp_para_ingeniera/4/p8.cpp)
     * [ ] [Programa 4.9](cpp_para_ingeniera/4/p9.cpp)
     * [ ] [Programa 4.10](cpp_para_ingeniera/4/p10.cpp)
 <!--next
