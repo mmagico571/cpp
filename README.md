@@ -321,7 +321,7 @@
     * [x] [Programa 4.10](cpp_para_ingeniera/4/p10.cpp)
 * [ ] [5 Instrucciones de repeticion](cpp_para_ingeniera/5/5.pdf)
     * [x] [Programa 5.1](cpp_para_ingeniera/5/p1.cpp)
-    * [ ] [Programa 5.2](cpp_para_ingeniera/5/p2.cpp)
+    * [x] [Programa 5.2](cpp_para_ingeniera/5/p2.cpp)
     * [ ] [Programa 5.3](cpp_para_ingeniera/5/p3.cpp)
     * [ ] [Programa 5.4](cpp_para_ingeniera/5/p4.cpp)
     * [ ] [Programa 5.5](cpp_para_ingeniera/5/p5.cpp)
