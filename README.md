@@ -337,7 +337,7 @@
     * [x] [Programa 5.15](cpp_para_ingeniera/5/p15.cpp)
     * [x] [Programa 5.16](cpp_para_ingeniera/5/p16.cpp)
     * [x] [Programa 5.17](cpp_para_ingeniera/5/p17.cpp)
-    * [ ] [Programa 5.18](cpp_para_ingeniera/5/p18.cpp)
+    * [x] [Programa 5.18](cpp_para_ingeniera/5/p18.cpp)
 
 <!--next
 * [ ] [6 Modularida con el uso de funciones](cpp_para_ingeniera/6/6.pdf)
