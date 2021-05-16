@@ -308,7 +308,7 @@
     * [x] [Programa 3.15](cpp_para_ingeniera/3/p15.cpp)
     * [x] [Programa 3.16](cpp_para_ingeniera/3/p16.cpp)
     * [x] [Programa 3.17](cpp_para_ingeniera/3/p17.cpp)
-* [ ] [4 Estructuras de seleccion](cpp_para_ingeniera/4/4.pdf)
+* [x] [4 Estructuras de seleccion](cpp_para_ingeniera/4/4.pdf)
     * [x] [Programa 4.1](cpp_para_ingeniera/4/p1.cpp)
     * [x] [Programa 4.2](cpp_para_ingeniera/4/p2.cpp)
     * [x] [Programa 4.3](cpp_para_ingeniera/4/p3.cpp)
