@@ -331,7 +331,7 @@
     * [x] [Programa 5.9](cpp_para_ingeniera/5/p9.cpp)
     * [x] [Programa 5.10](cpp_para_ingeniera/5/p10.cpp)
     * [x] [Programa 5.11](cpp_para_ingeniera/5/p11.cpp)
-    * [ ] [Programa 5.12](cpp_para_ingeniera/5/p12.cpp)
+    * [x] [Programa 5.12](cpp_para_ingeniera/5/p12.cpp)
     * [ ] [Programa 5.13](cpp_para_ingeniera/5/p13.cpp)
     * [ ] [Programa 5.14](cpp_para_ingeniera/5/p14.cpp)
     * [ ] [Programa 5.15](cpp_para_ingeniera/5/p15.cpp)
