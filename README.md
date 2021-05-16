@@ -328,7 +328,7 @@
     * [x] [Programa 5.6](cpp_para_ingeniera/5/p6.cpp)
     * [x] [Programa 5.7](cpp_para_ingeniera/5/p7.cpp)
     * [x] [Programa 5.8](cpp_para_ingeniera/5/p8.cpp)
-    * [ ] [Programa 5.9](cpp_para_ingeniera/5/p9.cpp)
+    * [x] [Programa 5.9](cpp_para_ingeniera/5/p9.cpp)
     * [ ] [Programa 5.10](cpp_para_ingeniera/5/p10.cpp)
     * [ ] [Programa 5.11](cpp_para_ingeniera/5/p11.cpp)
     * [ ] [Programa 5.12](cpp_para_ingeniera/5/p12.cpp)
