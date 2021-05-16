@@ -319,7 +319,6 @@
     * [x] [Programa 4.8](cpp_para_ingeniera/4/p8.cpp)
     * [x] [Programa 4.9](cpp_para_ingeniera/4/p9.cpp)
     * [x] [Programa 4.10](cpp_para_ingeniera/4/p10.cpp)
-<!--next
 * [ ] [5 Instrucciones de repeticion](cpp_para_ingeniera/5/5.pdf)
     * [ ] [Programa 5.1](cpp_para_ingeniera/5/p1.cpp)
     * [ ] [Programa 5.2](cpp_para_ingeniera/5/p2.cpp)
@@ -339,8 +338,7 @@
     * [ ] [Programa 5.16](cpp_para_ingeniera/5/p16.cpp)
     * [ ] [Programa 5.17](cpp_para_ingeniera/5/p17.cpp)
     * [ ] [Programa 5.18](cpp_para_ingeniera/5/p18.cpp)
-
-
+<!--next
 * [ ] [6 Modularida con el uso de funciones](cpp_para_ingeniera/6/6.pdf)
 * [ ] [7 Completar lo basico](cpp_para_ingeniera/7/7.pdf)
 * [ ] [8 Flujos de archivos E/S y archivos de datos](cpp_para_ingeniera/8/8.pdf)
