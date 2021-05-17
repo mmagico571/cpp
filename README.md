@@ -48,8 +48,8 @@
     * [x] [026 Ejercicio](ats/programas/026e.cpp)
 * [x] [027 Ciclos o Bucles Ejercicio sumar 2^1+2^2++2^n](ats/programas/027.cpp)
     * [x] [027 Ejercicio](ats/programas/027e.cpp)
-* [ ] [028 Ciclos o Bucles Ejercicio Serie fibonacci](ats/programas/028.cpp)
-    * [ ] [028 Ejercicio](ats/programas/028e.cpp)
+* [x] [028 Ciclos o Bucles Ejercicio Serie fibonacci](ats/programas/028.cpp)
+    * [x] [028 Ejercicio](ats/programas/028e.cpp)
 * [ ] [029 Ciclos o Bucles Ejercicio Numero magico](ats/programas/029.cpp)
     * [ ] [029 Ejercicio](ats/programas/029e.cpp)
 <!--next
