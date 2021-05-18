@@ -52,7 +52,6 @@
     * [x] [028 Ejercicio](ats/programas/028e.cpp)
 * [x] [029 Ciclos o Bucles Ejercicio Numero magico](ats/programas/029.cpp)
     * [x] [029 Ejercicio](ats/programas/029e.cpp)
-<!--next
 * [ ] [030 Arreglos Concepto de Arreglo Unidimensional](ats/programas/030.cpp)
     * [ ] [030 Ejercicio](ats/programas/030e.cpp)
 * [ ] [031 Arreglos Suma de elementos de un arreglo](ats/programas/031.cpp)
@@ -73,6 +72,7 @@
     * [ ] [038 Ejercicio](ats/programas/038e.cpp)
 * [ ] [039 Matrices  Determinar si una matriz es Simetrica](ats/programas/039.cpp)
     * [ ] [039 Ejercicio](ats/programas/039e.cpp)
+<!--next
 * [ ] [040 Cadenas Introduccion a las cadenas de caracteres](ats/programas/040.cpp)
     * [ ] [040 Ejercicio](ats/programas/040e.cpp)
 * [ ] [041 Cadenas Longitud de una cadena - Funcion strlen()](ats/programas/041.cpp)
