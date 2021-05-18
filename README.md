@@ -340,7 +340,7 @@
     * [x] [Programa 5.18](cpp_para_ingeniera/5/p18.cpp)
 * [ ] [11 Arreglos](cpp_para_ingeniera/11/11.pdf)
     * [x] [Programa 11.1](cpp_para_ingeniera/11/p1.cpp)
-    * [ ] [Programa 11.2](cpp_para_ingeniera/11/p2.cpp)
+    * [x] [Programa 11.2](cpp_para_ingeniera/11/p2.cpp)
     * [ ] [Programa 11.3](cpp_para_ingeniera/11/p3.cpp)
     * [ ] [Programa 11.4](cpp_para_ingeniera/11/p4.cpp)
     * [ ] [Programa 11.5](cpp_para_ingeniera/11/p5.cpp)
