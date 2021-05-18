@@ -50,8 +50,8 @@
     * [x] [027 Ejercicio](ats/programas/027e.cpp)
 * [x] [028 Ciclos o Bucles Ejercicio Serie fibonacci](ats/programas/028.cpp)
     * [x] [028 Ejercicio](ats/programas/028e.cpp)
-* [ ] [029 Ciclos o Bucles Ejercicio Numero magico](ats/programas/029.cpp)
-    * [ ] [029 Ejercicio](ats/programas/029e.cpp)
+* [x] [029 Ciclos o Bucles Ejercicio Numero magico](ats/programas/029.cpp)
+    * [x] [029 Ejercicio](ats/programas/029e.cpp)
 <!--next
 * [ ] [030 Arreglos Concepto de Arreglo Unidimensional](ats/programas/030.cpp)
     * [ ] [030 Ejercicio](ats/programas/030e.cpp)
