@@ -338,16 +338,6 @@
     * [x] [Programa 5.16](cpp_para_ingeniera/5/p16.cpp)
     * [x] [Programa 5.17](cpp_para_ingeniera/5/p17.cpp)
     * [x] [Programa 5.18](cpp_para_ingeniera/5/p18.cpp)
-
-<!--next
-* [ ] [6 Modularida con el uso de funciones](cpp_para_ingeniera/6/6.pdf)
-    * [ ] [Programa 6.](cpp_para_ingeniera/6/p.cpp)
-* [ ] [7 Completar lo basico](cpp_para_ingeniera/7/7.pdf)
-* [ ] [8 Flujos de archivos E/S y archivos de datos](cpp_para_ingeniera/8/8.pdf)
-* [ ] [9 Introduccion a las clases](cpp_para_ingeniera/9/9.pdf)
-* [ ] [10 Funciones de clases y conversiones](cpp_para_ingeniera/10/10.pdf)
-
-
 * [ ] [11 Arreglos](cpp_para_ingeniera/11/11.pdf)
     * [ ] [Programa 11.1](cpp_para_ingeniera/11/p1.cpp)
     * [ ] [Programa 11.2](cpp_para_ingeniera/11/p2.cpp)
@@ -364,6 +354,14 @@
     * [ ] [Programa 11.13](cpp_para_ingeniera/11/p13.cpp)
     * [ ] [Programa 11.14](cpp_para_ingeniera/11/p14.cpp)
     * [ ] [Programa 11.15](cpp_para_ingeniera/11/p15.cpp)
+<!--next
+* [ ] [6 Modularida con el uso de funciones](cpp_para_ingeniera/6/6.pdf)
+    * [ ] [Programa 6.](cpp_para_ingeniera/6/p.cpp)
+* [ ] [7 Completar lo basico](cpp_para_ingeniera/7/7.pdf)
+* [ ] [8 Flujos de archivos E/S y archivos de datos](cpp_para_ingeniera/8/8.pdf)
+* [ ] [9 Introduccion a las clases](cpp_para_ingeniera/9/9.pdf)
+* [ ] [10 Funciones de clases y conversiones](cpp_para_ingeniera/10/10.pdf)
+
 
 * [ ] [12 Apuntadores](cpp_para_ingeniera/12/12.pdf)
 * [ ] [13 Estructuras](cpp_para_ingeniera/13/13.pdf)
