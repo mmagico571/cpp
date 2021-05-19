@@ -66,8 +66,8 @@
     * [x] [036 Ejercicio](ats/programas/036e.cpp)
 * [x] [037 Matrices Copiar el contenido de una matriz a otra matriz](ats/programas/037.cpp)
     * [x] [037 Ejercicio](ats/programas/037e.cpp)
-* [ ] [038 Matrices Matriz transpuesta](ats/programas/038.cpp)
-    * [ ] [038 Ejercicio](ats/programas/038e.cpp)
+* [x] [038 Matrices Matriz transpuesta](ats/programas/038.cpp)
+    * [x] [038 Ejercicio](ats/programas/038e.cpp)
 * [ ] [039 Matrices  Determinar si una matriz es Simetrica](ats/programas/039.cpp)
     * [ ] [039 Ejercicio](ats/programas/039e.cpp)
 <!--next
