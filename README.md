@@ -68,8 +68,8 @@
     * [x] [037 Ejercicio](ats/programas/037e.cpp)
 * [x] [038 Matrices Matriz transpuesta](ats/programas/038.cpp)
     * [x] [038 Ejercicio](ats/programas/038e.cpp)
-* [ ] [039 Matrices  Determinar si una matriz es Simetrica](ats/programas/039.cpp)
-    * [ ] [039 Ejercicio](ats/programas/039e.cpp)
+* [x] [039 Matrices  Determinar si una matriz es Simetrica](ats/programas/039.cpp)
+    * [x] [039 Ejercicio](ats/programas/039e.cpp)
 <!--next
 * [ ] [040 Cadenas Introduccion a las cadenas de caracteres](ats/programas/040.cpp)
     * [ ] [040 Ejercicio](ats/programas/040e.cpp)
