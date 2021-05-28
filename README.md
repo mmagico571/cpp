@@ -70,9 +70,9 @@
     * [x] [038 Ejercicio](ats/programas/038e.cpp)
 * [x] [039 Matrices  Determinar si una matriz es Simetrica](ats/programas/039.cpp)
     * [x] [039 Ejercicio](ats/programas/039e.cpp)
-<!--next
 * [ ] [040 Cadenas Introduccion a las cadenas de caracteres](ats/programas/040.cpp)
     * [ ] [040 Ejercicio](ats/programas/040e.cpp)
+<!--next
 * [ ] [041 Cadenas Longitud de una cadena - Funcion strlen()](ats/programas/041.cpp)
     * [ ] [041 Ejercicio](ats/programas/041e.cpp)
 * [ ] [042 Cadenas Copiar el contenido de una cadena a otra - Funcion strcpy](ats/programas/042.cpp)
@@ -342,7 +342,7 @@
     * [x] [Programa 11.3](cpp_para_ingeniera/11/p3.cpp)
     * [x] [Programa 11.4](cpp_para_ingeniera/11/p4.cpp)
     * [x] [Programa 11.5](cpp_para_ingeniera/11/p5.cpp)
-    * [ ] [Programa 11.6](cpp_para_ingeniera/11/p6.cpp)
+    * [x] [Programa 11.6](cpp_para_ingeniera/11/p6.cpp)
     * [ ] [Programa 11.7](cpp_para_ingeniera/11/p7.cpp)
     * [ ] [Programa 11.8](cpp_para_ingeniera/11/p8.cpp)
     * [ ] [Programa 11.9](cpp_para_ingeniera/11/p9.cpp)
