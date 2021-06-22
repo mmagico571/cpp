@@ -342,7 +342,7 @@
     * [x] [Programa 11.3](cpp_para_ingeniera/11/p3.cpp)
     * [x] [Programa 11.4](cpp_para_ingeniera/11/p4.cpp)
     * [x] [Programa 11.5](cpp_para_ingeniera/11/p5.cpp)
-    * [x] [Programa 11.6](cpp_para_ingeniera/11/p6.cpp)
+    * [ ] [Programa 11.6](cpp_para_ingeniera/11/p6.cpp)
     * [ ] [Programa 11.7](cpp_para_ingeniera/11/p7.cpp)
     * [ ] [Programa 11.8](cpp_para_ingeniera/11/p8.cpp)
     * [ ] [Programa 11.9](cpp_para_ingeniera/11/p9.cpp)
