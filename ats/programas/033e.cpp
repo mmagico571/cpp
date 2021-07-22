@@ -1,4 +1,5 @@
-/*
+/*Escribe un programa que defina un vector de numeros y calcule si existe un numero
+en el vector equivalente a la suma del resto de los numeros del vector
 */
 #include<iostream>
 using namespace std;
