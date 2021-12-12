@@ -73,6 +73,7 @@
 * [ ] [040 Cadenas Introduccion a las cadenas de caracteres](ats/programas/040.cpp)
     * [ ] [040 Ejercicio](ats/programas/040e.cpp)
 <!--next
+
 * [ ] [041 Cadenas Longitud de una cadena - Funcion strlen()](ats/programas/041.cpp)
     * [ ] [041 Ejercicio](ats/programas/041e.cpp)
 * [ ] [042 Cadenas Copiar el contenido de una cadena a otra - Funcion strcpy](ats/programas/042.cpp)
