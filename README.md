@@ -6,8 +6,6 @@
 * [x] [004 Ejercicio - Operaciones aritméticas](ats/programas/004.cpp)
     * [x] [004 ejercicio](ats/programas/004e.cpp)
 * [x] [005 Expresiones  Ejercicio Expresiones 1 en C++](ats/programas/005.cpp)
-    * [x] [005 Ejercicio](ats/programas/005e.cpp)
-* [x] [005 Expresiones  Ejercicio Expresiones 1 en C++](ats/programas/005.cpp)
 * [x] [006 Expresiones  Ejercicio Expresiones 1 en C++](ats/programas/006.cpp)
     * [x] [006 Ejercicio](ats/programas/006e.cpp)
 * [x] [007  Expresiones  Ejercicio Expresiones 2 en C++](ats/programas/007.cpp)
