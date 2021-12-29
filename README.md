@@ -286,6 +286,7 @@
     * [x] [Programa 2.11](cpp_para_ingeniera/2/p11.cpp)
     * [x] [Programa 2.12](cpp_para_ingeniera/2/p12.cpp)
     * [x] [Programa 2.13](cpp_para_ingeniera/2/p13.cpp)
+        * [ ] [Ejercicios resueltos del tema: 2 Solucion de problemas mediante c++](2e.md)
 * [x] [3 Asignacion, formateo y entrada interactiva](cpp_para_ingeniera/3/3.pdf)
     * [x] [Programa 3.1](cpp_para_ingeniera/3/p1.cpp)
     * [x] [Programa 3.2](cpp_para_ingeniera/3/p2.cpp)
