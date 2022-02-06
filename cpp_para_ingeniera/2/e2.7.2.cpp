@@ -1,3 +1,4 @@
+//e2.7.2
 //Programa que determina la frecuencia devuelta por un automovil
 //que vuaja a 55 millas por hora de acuerdo a la ecuacion
 //velocidad = 6.685 * (f1 - f0) / (f1 + f0);
