@@ -1,4 +1,4 @@
-//e2.6.
+//e2.6.7
 /*
  * */
 #include<iostream>
