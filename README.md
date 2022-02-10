@@ -337,6 +337,7 @@
     * [x] [Programa 5.16](cpp_para_ingeniera/5/p16.cpp)
     * [x] [Programa 5.17](cpp_para_ingeniera/5/p17.cpp)
     * [x] [Programa 5.18](cpp_para_ingeniera/5/p18.cpp)
+        * [ ] [Ejercicios resueltos del tema: 5 Instrucciones de repeticion](cpp_para_ingeniera/5/5e.md)
 * [ ] [11 Arreglos](cpp_para_ingeniera/11/11.pdf)
     * [x] [Programa 11.1](cpp_para_ingeniera/11/p1.cpp)
     * [x] [Programa 11.2](cpp_para_ingeniera/11/p2.cpp)
