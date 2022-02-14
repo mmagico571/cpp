@@ -354,6 +354,7 @@
     * [ ] [Programa 11.13](cpp_para_ingeniera/11/p13.cpp)
     * [ ] [Programa 11.14](cpp_para_ingeniera/11/p14.cpp)
     * [ ] [Programa 11.15](cpp_para_ingeniera/11/p15.cpp)
+        * [ ] [Ejercicios resueltos del tema: 11 Arreglos](cpp_para_ingeniera/11/11e.md)
 <!--next
 * [ ] [6 Modularida con el uso de funciones](cpp_para_ingeniera/6/6.pdf)
     * [ ] [Programa 6.](cpp_para_ingeniera/6/p.cpp)
