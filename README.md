@@ -318,6 +318,7 @@
     * [x] [Programa 4.9](cpp_para_ingeniera/4/p9.cpp)
     * [x] [Programa 4.10](cpp_para_ingeniera/4/p10.cpp)
         * [ ] [Ejercicios resueltos del tema: 4 Estructuras de seleccion](cpp_para_ingeniera/4/4e.md)
+
 * [x] [5 Instrucciones de repeticion](cpp_para_ingeniera/5/5.pdf)
     * [x] [Programa 5.1](cpp_para_ingeniera/5/p1.cpp)
     * [x] [Programa 5.2](cpp_para_ingeniera/5/p2.cpp)
@@ -338,6 +339,29 @@
     * [x] [Programa 5.17](cpp_para_ingeniera/5/p17.cpp)
     * [x] [Programa 5.18](cpp_para_ingeniera/5/p18.cpp)
         * [ ] [Ejercicios resueltos del tema: 5 Instrucciones de repeticion](cpp_para_ingeniera/5/5e.md)
+
+<!--
+* [ ] [7 Completar lo basico](cpp_para_ingeniera/7/7.pdf)
+    * [ ] [Programa 7.1](cpp_para_ingeniera/7/p1.cpp)
+    * [ ] [Programa 7.2](cpp_para_ingeniera/7/p2.cpp)
+    * [ ] [Programa 7.3](cpp_para_ingeniera/7/p3.cpp)
+    * [ ] [Programa 7.4](cpp_para_ingeniera/7/p4.cpp)
+    * [ ] [Programa 7.5](cpp_para_ingeniera/7/p5.cpp)
+    * [ ] [Programa 7.6](cpp_para_ingeniera/7/p6.cpp)
+    * [ ] [Programa 7.7](cpp_para_ingeniera/7/p7.cpp)
+    * [ ] [Programa 7.8](cpp_para_ingeniera/7/p8.cpp)
+    * [ ] [Programa 7.9](cpp_para_ingeniera/7/p9.cpp)
+    * [ ] [Programa 7.10](cpp_para_ingeniera/7/p10.cpp)
+    * [ ] [Programa 7.11](cpp_para_ingeniera/7/p11.cpp)
+    * [ ] [Programa 7.12](cpp_para_ingeniera/7/p12.cpp)
+    * [ ] [Programa 7.13](cpp_para_ingeniera/7/p13.cpp)
+    * [ ] [Programa 7.14](cpp_para_ingeniera/7/p14.cpp)
+    * [ ] [Programa 7.15](cpp_para_ingeniera/7/p15.cpp)
+    * [ ] [Programa 7.16](cpp_para_ingeniera/7/p16.cpp)
+    * [ ] [Programa 7.17](cpp_para_ingeniera/7/p17.cpp)
+        * [ ] [Ejercicios resueltos del tema7 : Completar lo Basico](cpp_para_ingeniera/7/7e.md)
+-->
+
 * [ ] [11 Arreglos](cpp_para_ingeniera/11/11.pdf)
     * [x] [Programa 11.1](cpp_para_ingeniera/11/p1.cpp)
     * [x] [Programa 11.2](cpp_para_ingeniera/11/p2.cpp)
@@ -358,7 +382,7 @@
 <!--next
 * [ ] [6 Modularida con el uso de funciones](cpp_para_ingeniera/6/6.pdf)
     * [ ] [Programa 6.](cpp_para_ingeniera/6/p.cpp)
-* [ ] [7 Completar lo basico](cpp_para_ingeniera/7/7.pdf)
+
 * [ ] [8 Flujos de archivos E/S y archivos de datos](cpp_para_ingeniera/8/8.pdf)
 * [ ] [9 Introduccion a las clases](cpp_para_ingeniera/9/9.pdf)
 * [ ] [10 Funciones de clases y conversiones](cpp_para_ingeniera/10/10.pdf)
