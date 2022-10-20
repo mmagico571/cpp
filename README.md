@@ -340,6 +340,29 @@
     * [x] [Programa 5.18](cpp_para_ingeniera/5/p18.cpp)
         * [ ] [Ejercicios resueltos del tema: 5 Instrucciones de repeticion](cpp_para_ingeniera/5/5e.md)
 
+* [ ] [6 Modularida con el uso de funciones](cpp_para_ingeniera/6/6.pdf)
+    * [ ] [Programa 6.1](cpp_para_ingeniera/6/p1.cpp)
+    * [ ] [Programa 6.2](cpp_para_ingeniera/6/p2.cpp)
+    * [ ] [Programa 6.3](cpp_para_ingeniera/6/p3.cpp)
+    * [ ] [Programa 6.4](cpp_para_ingeniera/6/p4.cpp)
+    * [ ] [Programa 6.5](cpp_para_ingeniera/6/p5.cpp)
+    * [ ] [Programa 6.6](cpp_para_ingeniera/6/p6.cpp)
+    * [ ] [Programa 6.7](cpp_para_ingeniera/6/p7.cpp)
+    * [ ] [Programa 6.8](cpp_para_ingeniera/6/p8.cpp)
+    * [ ] [Programa 6.9](cpp_para_ingeniera/6/p9.cpp)
+    * [ ] [Programa 6.10](cpp_para_ingeniera/6/p10.cpp)
+    * [ ] [Programa 6.11](cpp_para_ingeniera/6/p11.cpp)
+    * [ ] [Programa 6.12](cpp_para_ingeniera/6/p12.cpp)
+    * [ ] [Programa 6.13](cpp_para_ingeniera/6/p13.cpp)
+    * [ ] [Programa 6.14](cpp_para_ingeniera/6/p14.cpp)
+    * [ ] [Programa 6.15](cpp_para_ingeniera/6/p15.cpp)
+    * [ ] [Programa 6.16](cpp_para_ingeniera/6/p16.cpp)
+    * [ ] [Programa 6.17](cpp_para_ingeniera/6/p17.cpp)
+    * [ ] [Programa 6.18](cpp_para_ingeniera/6/p18.cpp)
+    * [ ] [Programa 6.19](cpp_para_ingeniera/6/p19.cpp)
+    * [ ] [Programa 6.20](cpp_para_ingeniera/6/p20.cpp)
+        * [ ] [Ejercicios resueltos del tema: 6 Modularida con el uso de funciones](cpp_para_ingeniera/6/6e.md)
+
 <!--
 * [ ] [7 Completar lo basico](cpp_para_ingeniera/7/7.pdf)
     * [ ] [Programa 7.1](cpp_para_ingeniera/7/p1.cpp)
@@ -380,14 +403,9 @@
     * [ ] [Programa 11.15](cpp_para_ingeniera/11/p15.cpp)
         * [ ] [Ejercicios resueltos del tema: 11 Arreglos](cpp_para_ingeniera/11/11e.md)
 <!--next
-* [ ] [6 Modularida con el uso de funciones](cpp_para_ingeniera/6/6.pdf)
-    * [ ] [Programa 6.](cpp_para_ingeniera/6/p.cpp)
-
 * [ ] [8 Flujos de archivos E/S y archivos de datos](cpp_para_ingeniera/8/8.pdf)
 * [ ] [9 Introduccion a las clases](cpp_para_ingeniera/9/9.pdf)
 * [ ] [10 Funciones de clases y conversiones](cpp_para_ingeniera/10/10.pdf)
-
-
 * [ ] [12 Apuntadores](cpp_para_ingeniera/12/12.pdf)
 * [ ] [13 Estructuras](cpp_para_ingeniera/13/13.pdf)
 * [ ] [14 Metodos Numericos](cpp_para_ingeniera/14/14.pdf)
