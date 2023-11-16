@@ -69,7 +69,7 @@
     * [x] [039 Ejercicio](ats/programas/039e.cpp)
 * [ ] [040 Cadenas Introduccion a las cadenas de caracteres](ats/programas/040.cpp)
     * [ ] [040 Ejercicio](ats/programas/040e.cpp)
-<!--next
+
 
 * [ ] [041 Cadenas Longitud de una cadena - Funcion strlen()](ats/programas/041.cpp)
     * [ ] [041 Ejercicio](ats/programas/041e.cpp)
@@ -89,6 +89,7 @@
     * [ ] [048 Ejercicio](ats/programas/048e.cpp)
 * [ ] [049 Cadenas Ejercicio Contando cada vocal en una frase](ats/programas/049.cpp)
     * [ ] [049 Ejercicio](ats/programas/049e.cpp)
+<!--next
 * [ ] [050 Ordenamientos M‚todo Burbuja](ats/programas/050.cpp)
     * [ ] [050 Ejercicio](ats/programas/050e.cpp)
 * [ ] [051 Ordenamientos Ordenamiento por Insercion](ats/programas/051.cpp)
